@@ -34,6 +34,8 @@ Implement B+ tree to handle the following type of queries
 ## Compile:
 
 ./bplustree.o filename M B
+
 M anynumber
+
 B 21 for 4 nodes per block ((21-1)/4)-1
 
